@@ -1,0 +1,21 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	
+}
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}
+div.one-third {
+	width: 30%;
+	float: left;
+	margin-right: 5%;
+}
+div.one-third-last {
+	margin: 0;
+}
+\
+
